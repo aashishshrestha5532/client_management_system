@@ -1,0 +1,15 @@
+// import starting from the src/ folder
+
+// can also be relative import
+// @import "./variable.scss";
+
+$primaryColor:red;
+
+// we can use the $primaryColor variable now
+h1, h2 {
+  color: $primaryColor;
+  text-align: end
+}
+.textDesign{
+  color: green
+}

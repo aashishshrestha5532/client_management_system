@@ -1,0 +1,9 @@
+.CardContainer{
+    display: inline;
+    height: 70;
+    width: 50;
+    padding: 10;
+    opacity: 0.78;
+    border-radius: 10;
+    border-color: black;
+}
